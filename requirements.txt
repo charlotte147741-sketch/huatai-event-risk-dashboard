@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+plotly
+neo4j
+pyvis

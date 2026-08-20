@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+backups/
+*.save
+fix_*.py
+app_before_*.py
+app_step*.py
+app_知识图谱备份.py
+global_knowledge_graph.html
+/01_event_extraction.xlsx
+/02_credibility.xlsx
+/event_clusters.xlsx
+/event_stages.xlsx
+/risk_alerts.xlsx
